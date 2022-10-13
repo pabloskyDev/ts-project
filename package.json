@@ -9,6 +9,7 @@
   "author": "pabloskyDev",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.186",
     "typescript": "^4.8.4"
   },
   "dependencies": {
