@@ -3,7 +3,7 @@
     const {email, password} = data
     console.log(email,password)
   }
-  login({email: "fran@co.me", password: "N0M3H4CK335"});
+  login({email: "example@co.me", password: "..."});
 
   // Funcion con un objeto más grande
   type ShirtSizes = 'S' | 'M' | 'L' | 'XL';
